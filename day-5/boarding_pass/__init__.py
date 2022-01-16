@@ -1,0 +1,1 @@
+from boarding_pass.boarding_pass import BoardingPass
